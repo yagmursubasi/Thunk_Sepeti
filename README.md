@@ -1,22 +1,33 @@
-# Middleware Nedir ?
 
-- Arayazılım, iki olay arasında çalışan koddur.
-- Örneğin bir api isteğin bir uçtan diğer uca iletilirken araya girip bu isteği işleyen bir mw yazılabilir
+# ThunkSepeti
 
-## Thunk MW Nedir?
+## 🌟 Introduction
 
-- Redux thunk, redux'ta kullanılan bir middlewaredir.
+ThunkSepeti is a food ordering application that allows users to order food from nearby restaurants. It is built using React and offers a modern user experience.
 
-- Redux thunk, normalde sadece obje dönen aksiyonlar yerine api isteği ve dispatch yapabilen alsiyonlar yazmamızı sağlar
+## 🚀 Features
 
-## Kütüphaneler
+- 🏢 Restaurant listing and details page
+- 🍔 View popular dishes
+- 🛒 Add to cart and place orders
 
-- tailwindcss
-- axios
-- json-server
-- redux
-- react-redux
-- redux-thunk
-- react-router-dom
-- uuid
-- react-icons
+
+## 🔧 Technologies Used
+
+- React
+- TailwindCSS
+- Axios
+- JSON-Server
+- Redux
+- React-Redux
+- Redux-Thunk
+- React-Router-Dom
+- UUID
+- React-Icons
+
+
+## 👀 Demo
+
+![Thunk sepeteti demo ](https://github.com/user-attachments/assets/8d28b02d-af72-4cd6-ae4e-a8b0453f381e)
+
+
